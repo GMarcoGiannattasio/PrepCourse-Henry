@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Primer repositorio del henry course.
+Esta es na primera modificaciones del contenido de un repositorio creado en GitHub.
